@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case for Nol Cromwells nose, and the cure of Tom Fairfax's gout. Both which rebells are dead, and their deaths kept close, by the policy of our new states.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81260</idno>
+            <idno type="STC">Wing C866</idno>
+            <idno type="STC">Thomason E448_9</idno>
+            <idno type="STC">ESTC R204974</idno>
+            <idno type="EEBO-CITATION">99864422</idno>
+            <idno type="PROQUEST">99864422</idno>
+            <idno type="VID">161829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161829)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case for Nol Cromwells nose, and the cure of Tom Fairfax's gout. Both which rebells are dead, and their deaths kept close, by the policy of our new states.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161829:1" rendition="simple:additions"/>
+            <p>A Caſe for Nol Cromwells Noſe, AND The Cure of TOM FAIRFAX's Gout.</p>
+            <p>Both which Rebells are dead, and their deaths kept cloſe, by the policy of our new States.</p>
+            <q>
+               <lg>
+                  <l>—<hi>Ridentem'dicere verum</hi>
+                  </l>
+                  <l>
+                     <hi>Quid vetat!</hi>—</l>
+               </lg>
+            </q>
+            <lg>
+               <l>Ask <hi>Lillie,</hi> that ſeditious Quack,</l>
+               <l>And <hi>Booker,</hi> that ſame froth,</l>
+               <l>Why neither in his Almanack</l>
+               <l>Foretold <hi>Nol Cromwells</hi> death.</l>
+            </lg>
+            <lg>
+               <l>Or that <hi>Tom Fairfax</hi> and his Rout</l>
+               <l>Should be ſo bang'd by Kent;</l>
+               <l>He forced by his pockey Gout</l>
+               <l>From life and Parliament.</l>
+            </lg>
+            <lg>
+               <l>Poore Saints; how do your hopes decay!</l>
+               <l>How do your Champions fall!</l>
+               <l>
+                  <hi>VVarner</hi> and <hi>Atkins</hi> whine, and ſay,</l>
+               <l>We Saints muſt periſh all.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Skippon</hi> doth claw his ſcabbey breech,</l>
+               <l>And <hi>Rolles</hi> roules up his eyes:</l>
+               <l>
+                  <hi>Lenthalls</hi> feet to be gone do itch;</l>
+               <l>O there were <hi>Clavells</hi> prize.</l>
+            </lg>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161829:2"/>
+            <pb n="1" facs="tcp:161829:2"/>
+            <head>A Caſe for <hi>Noll Cromwells</hi> Noſe; with the cure of <hi>Tom Fairfax</hi> his Gout.</head>
+            <floatingText xml:lang="eng" type="notice">
+               <body>
+                  <opener>OYes! OYes! OYes!</opener>
+                  <p>
+                     <hi>IF any Man, Angell or Devill can tell where the bodies of</hi> Oliver Cromwell <hi>and</hi> Tom Fairfax <hi>are now reſident, you may know the one by his refulgent copper noſe, which he ever kept well burniſht, that ſo he might not be conſtrained to trouble the devill to light him, or grope out his way to hell, you may know the other by his ſmoakie countenance, his mouth is drawn awry, and he looks like the picture of Doomſ<g ref="char:EOLhyphen"/>day, when the Planets be darkned; if any as aforeſaid can bring tale or tyding, where the two Archtraytors aforeſaid now are, let him bring word to the cryer, and he ſhall be well rewarded.</hi>
+                  </p>
+                  <p>God ſave the King and — the Parliament.</p>
+               </body>
+            </floatingText>
+            <p>The Saints have loſt their way to their promiſed Jeruſalem, and they are like to reigne but bare ſeven of thoſe thouſand years of tranquillity, which they propoſed to themſelves, the conceit of which, ſome years ſince ſo tickled their fancies, that ſome of them openly averred, that God by their hands would root out the wicked and ungodly ones out of the Land, and that none ſhould ſurvive but thoſe elected, with whom Chriſt ſhould converſe in perſon a thouſand yeares: and this errour even the chiefeſt of their Rabbies have this many years confirmed unto them, and within this
+<pb n="2" facs="tcp:161829:3"/>two moneths they ſate upon the pinacle of their hopes, and imagined without doubt it ſhould be ſo.</p>
+            <p>But ſee how theſe fooliſh Saints were fruſtrated of their expectation, and that worthily; for could they imagine that the foundation of that peace can ſtand, which is laid with dead bodies for brick, and Blood for morter, or that their impri<g ref="char:EOLhyphen"/>ſoning of Chriſts beloved, and his fathers Anointed our moſt deare and dread Soveraigne, could haſten the ſun of Righte<g ref="char:EOLhyphen"/>ouſneſſe amongſt them? or that while they upheld in open Rebellion, and ſupported in all luſt, luxurie, murthers and out<g ref="char:EOLhyphen"/>rages, a knot of curſed Atheiſts (who are not aſhamed to call themſelves a Parliament) they ſhould have the mountaines levelled, the vallies levelled, and all things reduced to a paritie? the madneſſe of theſe Hypocrites, who were ſo beſotted as to perſwade themſelves, of happineſſe in <hi>Hell,</hi> or dreame of pleaſures in a dungeon! they finde now that blood will have vengeance, and that Rebellion muſt not paſſe unpuniſht: and let all the Nations of the world be warned by their example, and beware how they riſe in armes for trifles: for what have theſe men done for the glory of God, ſave quite taken away all order and decencie in his worſhip? have given life to, and revived all the peſtilent and pernicious Sects of old; So that it may <hi>be ſaid of England as of Amſterdam, if any man have loſt his Religion, let him but goe thither and he ſhall be ſure to find it:</hi> what eaſe have they purchaſed to the people, unleſſe it may be eaſe, to be overburthen'd and preſſed even to the earth with Taxes, innumerable Aſſeſſements, ſo that the poore dry out for bread and nothing but lamentation is heard in the Streets: what glory have they purchaſed for their King, unleſſe it be for his glory to be turned out of all he has, his lands and revenues ſeized on, and the majeſty thereof imploy<g ref="char:EOLhyphen"/>ed to maintaine warre againſt him, to be clapt up cloſe priſon<g ref="char:EOLhyphen"/>er in a remote angle of the world, to have none about him but Rogues, who would as willingly kill him as feed themſelves; and make no more ſcruple to give him poiſon, then to crack a nut: where hee is utterly deſtitute of all comforts, ſave thoſe which his pious ſoule adminiſters, where he hath been abuſed, ſcoffed, yea beaten and trod upon by a damnd villaine his jailor
+<pb n="3" facs="tcp:161829:3"/>
+               <hi>Hammond,</hi> where he may ſy murthered (for ought we may know) even at this preſent time; what have theſe villaines gained to themſelves, but even ſure and certaine deſtruction, the whole Kingdome whom they have ſo long and ſtrangely abuſed, being every day like to riſe upon them and cut their throates, as Kent, Surrey, Eſſex, Cornwall, Suſſex, Hampſhire and even the whole Nations, are now arming themſelves to take ſtrickt vengeance on them: this their reſolution put <hi>Oliver</hi> the Red Saint into ſuch a feare, that he could not in<g ref="char:EOLhyphen"/>dure to think of living any longer, the griefe which that great nos'd Champion took to ſee things ſo ſtrangely turne on the ſudden, ſtruck to his heart, which together with a wound that he received, fighting againſt Loyall <hi>Poyer,</hi> ſent him to an no<g ref="char:EOLhyphen"/>ther world, and hath given me occaſion to write this his Ele<g ref="char:EOLhyphen"/>gie, and to prefix the inſuing Epitaph.</p>
+            <lg>
+               <head>An Elegie on the moſt incomparable Rebell <hi>Oliver Cromwell.</hi>
+               </head>
+               <l>Am I awake or dreame? can it be ſed,</l>
+               <l>Englands Arch Traytor thus to hell is fled?</l>
+               <l>With Strange Dilemmas, is my ſoule perplext;</l>
+               <l>On this fide murther, Treaſon on the next:</l>
+               <l>My blood ſtrives too, paſſion doth ſeize my heart,</l>
+               <l>Theſe both encounter, and againe they part.</l>
+               <l>Is <hi>Cromwell</hi> Dead, durſt Death his eyes to cloſe,</l>
+               <l>Did he not tremble, to behold his noſe,</l>
+               <l>Whoſe raidiant ſplendour, (if Fame) doth not lie,</l>
+               <l>Shone brighter, than a Comet in the Skie.</l>
+               <l>Great cauſe hath <hi>Say, Martin,</hi> and <hi>Mancheſter,</hi>
+               </l>
+               <l>
+                  <hi>Fouke, Rolle, Aſh, Scot, Weaver,</hi> and <hi>Challoner;</hi>
+               </l>
+               <l>To, wring their hands, and aſhes for to ſpread,</l>
+               <l>And like to mourners, ſit down with the dead.</l>
+               <l>Howle <hi>Warner, Gibbs, Chambers,</hi> and <hi>Renardſon,</hi>
+               </l>
+               <l>
+                  <hi>Bide, Viner, Hall, Gaze, Kendall, Waterſon,</hi>
+               </l>
+               <l>And all the Rabble of the Saints, whoſe worth</l>
+               <l>My pen ſo oft, and amply hath ſet forth.</l>
+               <l>Let your loud Echoes thunder in the skie,</l>
+               <l>And curſe thoſe Fates, who caus'd your <hi>Nol</hi> to die.</l>
+               <pb n="4" facs="tcp:161829:4"/>
+               <l>Who now ſhall rob the Church, pull windows down,</l>
+               <l>Who now ſhall dare to trample on a Crowne?</l>
+               <l>Who now ſhall lead the Saints, by ſprings and fountains,</l>
+               <l>Ore hills, through dales, by craggy rocks and mountains,</l>
+               <l>Againſt fierce <hi>Poyer?</hi> who the firſt did dare</l>
+               <l>Refund Rebellion to a ſecond warre.</l>
+               <l>What Tray tor ere like <hi>Nol,</hi> that miſchief ſought,</l>
+               <l>So often, and ſo valliantly hath fought:</l>
+               <l>
+                  <hi>Spartacus,</hi> was a Punie, unto him.</l>
+               <l>He acted <hi>Cataline</hi> in every limme:</l>
+               <l>He hated God, and Charles, with all his heart,</l>
+               <l>And to unking him us'd his utmoſt art:</l>
+               <l>The Deſtinies ſent him upon the earth,</l>
+               <l>To ruine Truth, and give all errors birth:</l>
+               <l>And yet this monſter, here doth lie intomb'd,</l>
+               <l>Smitten with death by God, by Fates inhum'd.</l>
+            </lg>
+            <lg>
+               <head>HIS EPITAPH.</head>
+               <l>STumble not here, leſt that his Ghoſt ariſe</l>
+               <l>That here lies wrapt in lead, and do ſurprize</l>
+               <l>Your ſenſes with amazement, here lies one,</l>
+               <l>Whom Fame doth ſtile PRINCE OF REBELLION,</l>
+               <l>Heaven, forbid he ſhould unmentioned die</l>
+               <l>Without an Epitaph, or obſequie.</l>
+               <l>His guift muſt not anticipate his doome,</l>
+               <l>While I have pen and ink, and paper roome:</l>
+               <l>This man, as the Epheſian Prieſt <hi>Eroſtratus</hi>
+               </l>
+               <l>At one act graſpt at being gloriuos,</l>
+               <l>Which was for ever to extirpate Kings,</l>
+               <l>As uſeleſſe; not to be regarded things,</l>
+               <l>From out his native Clime, and to create</l>
+               <l>Some hundred Kings, moſt falſly term'd a State.</l>
+               <l>Upon his back, continually did ride,</l>
+               <l>As on the Cittie Aſſe, Treaſon, and pride.</l>
+               <l>This ſon of Anak, would perſwade his Nation,</l>
+               <l>That curſt Rebellion, was bleſt Reformation.</l>
+               <l>He di'd a Rebell, and a Rebell fell,</l>
+               <l>So great, we want one him to parallell.</l>
+            </lg>
+            <p>Farwell <hi>Olliver Cromwell</hi> a name that hath been ever omminous to the Church: for in <hi>Henry</hi> the eights
+<pb n="5" facs="tcp:161829:4"/>daies, (you may remember) that a <hi>Cromwell</hi> was the hammer that beat downe the monaſteries, and religi<g ref="char:EOLhyphen"/>ous Houſes, and in the raigne of our moſt pious So<g ref="char:EOLhyphen"/>veraigne Lord, unfortunate King CHARLES, this <hi>Cromwell</hi> hath been chiefly active in defacing, demol<g ref="char:EOLhyphen"/>liſhing, and levelling Churches, in perſecuting, rob<g ref="char:EOLhyphen"/>bing and impriſoning all learned and knowing men: but enough of him whoſe infamie will ever laſt; <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> a perjurd Rebell, who obliged himſelfe to his Ma<g ref="char:EOLhyphen"/>jeſty at Newmarket, and afterwards took his oath in the preſence of God and his King, that he would uſe his utmoſt indeavours to reinthrone him; and for that purpoſe would put his Army into a condition of warre, in caſe thoſe at Weſtminiſter ſhould gainſay; yet af<g ref="char:EOLhyphen"/>terwards by faire promiſes, and at the inſtigation of the Kings knowne enemies, broke his oath, and per<g ref="char:EOLhyphen"/>mitted his Soveraigne to be carried cloſe Priſoner to the Ile of Wight, and hath ſince in perſon fought a<g ref="char:EOLhyphen"/>gainſt his friends, both in Kent and other parts of the Kingdome, but by the juſt judgement of God he was lately ſhot in the groine, of which he is ſince dead; ſo may they all periſh that hate their King, which acci<g ref="char:EOLhyphen"/>dent happy without doubt to the Kingdome, hath gi<g ref="char:EOLhyphen"/>ven me occaſion to write this his Elegie, and to annex his Epitaph.</p>
+            <lg>
+               <head>
+                  <hi>An Elegie on the Arch-traytor</hi> Thomas Fairfax.</head>
+               <l>IS <hi>Fairfax</hi> dead? he whoſe ambitious ſoule</l>
+               <l>Still prompted him his Soveraign to controule,</l>
+               <l>And in the face of heaven dirt to ſting,</l>
+               <l>To be the Rebells Generall 'gainſt his King?</l>
+               <l>Was Fate ſo courteous to diſmiſſe him hence,</l>
+               <l>Before his head paid for his inſolence?</l>
+               <pb n="6" facs="tcp:161829:5"/>
+               <l>Was he growne great in ills, ripe for his doome,</l>
+               <l>And muſt he go in peace unto his Tombe?</l>
+               <l>This ſhewes, the Almighty ſometimes doth permit</l>
+               <l>Traytors till death, for to perſiſt in it:</l>
+               <l>Moſt noble villaine, <hi>Eſſex</hi> ſhed his horns,</l>
+               <l>And then he di'd, thy Father cut his corns</l>
+               <l>And crept into his Tomb, a boy ſhot thee,</l>
+               <l>Thus by weak meanes, you went to hell all three:</l>
+               <l>England behold with Rogue thou need'ſt not vie,</l>
+               <l>Hold, hold thy hands, they of themſelves will die.</l>
+            </lg>
+            <lg>
+               <head>His Epitaph.</head>
+               <l>HEre lies <hi>Fairfax,</hi> Marble ſhow it,</l>
+               <l>'Tis fit that all the world ſhould know it,</l>
+               <l>Arch-Traytor 'gainſt his Soveraigne Lord,</l>
+               <l>By him, as by his God abhorr'd</l>
+               <l>Prince and head of all the rout,</l>
+               <l>Who honour'd <hi>Cromwell</hi> and his Snout.</l>
+               <l>Famous for plunders and for rapes,</l>
+               <l>For Battells, but more for eſcapes;</l>
+               <l>The peoples plague, this Nations curſe,</l>
+               <l>The head of all their woes, the ſowrſe</l>
+               <l>Of all their miſchiefs, let him lie</l>
+               <l>And ſtink unto eternity.</l>
+            </lg>
+            <p>
+               <hi>Barkeſtead</hi> the thimble-maker alſo is dead, his whole com<g ref="char:EOLhyphen"/>pany were cut almoſt all off at the late fight in Kent by the juſt judgement of God, for their murthering and pillaging thoſe innocent men that came out of Surrey only to petition for a redreſſe of grievances, let us but wait a while, I mean we that are aged and not fit to oppoſe the Rebells, and we ſhall ſee them all drop into the grave one after another, we have Gods own Word, yea his Oath, that he will confound them.</p>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>We ſee then God hath tane our cauſe in hand,</l>
+                     <l>If he ſay no the Rebells cannot ſtand.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
